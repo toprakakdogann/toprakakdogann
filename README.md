@@ -1,12 +1,8 @@
 ### Hi, I'm Toprak 👋
 
-
 📫 How to reach me: toprak.akdoann@gmail.com
-
 🌱 I’m currently learning mobile development (swift, java, flutter)
-
 🔭 I’m currently working on web and mobile development (php, swift, flutter, java, html, css, bootstrap)
-
 🔗 My Linkedin: https://www.linkedin.com/in/toprak-akdo%C4%9Fan-271023176/
 
 <!--
