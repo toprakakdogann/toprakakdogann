@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toprakakdogann&color=blueviolet" alt="toprakakdogann" /> </p>
 
-📫 How to reach me: toprak.akdoann@gmail.com
+📫 How to reach me: toprak.akdoan44@gmail.com
 
 🌱 I’m currently learning mobile development (swift, java, flutter)
 
