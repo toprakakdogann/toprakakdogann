@@ -4,8 +4,6 @@
 
 📫 How to reach me: toprak.akdoan44@gmail.com
 
-🌱 I’m currently learning mobile development (swift, java, flutter)
-
 🔭 I’m currently working on android development ( Kotlin, java, MVVM, Dependency Injection, Jetpack Compose, Retrofit, Room DB)
 
 <h3 align="left">Connect with me:</h3>
