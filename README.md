@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning mobile development (swift, java, flutter)
 
-🔭 I’m currently working on web and mobile development (php, swift, flutter, java, html, css, bootstrap)
+🔭 I’m currently working on android development ( Kotlin, java, MVVM, Dependency Injection, Jetpack Compose, Retrofit, Room DB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
